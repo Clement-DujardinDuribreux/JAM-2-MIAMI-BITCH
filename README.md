@@ -8,7 +8,7 @@ Pour le projet de la JAM 2 sur le theme de l'infini, nous avons décidé de fair
 
 Recupération du repo:
 ```bash
-git clone git@github.com:007TheSpectre/jamn2.git
+git clone git@github.com:Clement-DujardinDuribreux/JAM-2-MIAMI-BITCH.git
 ```
 
 ----------------------------
